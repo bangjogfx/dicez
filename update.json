@@ -7,7 +7,7 @@
   "notificationMessage": "Dukung aplikasi kami melalui channel Telegram resmi.",
   "showCountdown": true,
   "countdownMessage": "Sistem dalam perbaikan",
-  "releaseTimestamp": 1792932640000,
+  "countdownMinutes": 60,
   "maintenance": true,
   "maintenanceMessage": "Aplikasi sedang dalam pemeliharaan."
 }
