@@ -1,12 +1,13 @@
 {
-  "versionCode": 6,
-  "versionName": "5.0",
+  "versionName": "13.6.0",
   "telegramUrl": "https://t.me/RedHexOfficial/3413",
-  "changelog": "Perbaikan Bypass dan fitur Bahasa.",
+  "changelog": "Perbaikan bug dan fitur Bahasa.",
   "showNotification": true,
   "notificationTitle": "PENGUMUMAN PENTING",
-  "notificationMessage": "Jika anda menyukai aplikasi ini berikin dukungan  dichannel telegram resmi kami serta berikan komentar anda. TerimaKasih",
+  "notificationMessage": "Dukung aplikasi kami melalui channel Telegram resmi.",
   "showCountdown": true,
   "countdownMessage": "Sistem dalam perbaikan",
-  "releaseTimestamp": 1792932640000
+  "releaseTimestamp": 1792932640000,
+  "maintenance": false,
+  "maintenanceMessage": "Aplikasi sedang dalam pemeliharaan."
 }
