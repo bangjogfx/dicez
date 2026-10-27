@@ -8,6 +8,6 @@
   "showCountdown": true,
   "countdownMessage": "Sistem dalam perbaikan",
   "releaseTimestamp": 1792932640000,
-  "maintenance": false,
+  "maintenance": true,
   "maintenanceMessage": "Aplikasi sedang dalam pemeliharaan."
 }
