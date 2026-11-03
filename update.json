@@ -1,7 +1,7 @@
 {
-  "versionName": "13.6.1",
+  "versionName": "13.6.2",
   "telegramUrl": "https://t.me/zmod_adapter",
-  "changelog": "Perbaikan bug dan fitur Bahasa.",
+  "changelog": "fixed bug android 17 fixed ESP",
   "showNotification": true,
   "notificationTitle": "PENGUMUMAN PENTING",
   "notificationMessage": "PLAY SAFE AVOID REPORT",
