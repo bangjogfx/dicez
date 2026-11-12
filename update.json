@@ -1,13 +1,13 @@
 {
   "versionName": "13.6.2",
   "telegramUrl": "https://t.me/zmod_adapter",
-  "changelog": "fixed bug android 17 fixed ESP",
+  "changelog": "UPDATE PUBG 4.7",
   "showNotification": true,
-  "notificationTitle": "PENGUMUMAN PENTING",
+  "notificationTitle": "NOTICE",
   "notificationMessage": "PLAY SAFE AVOID REPORT",
-  "showCountdown": false,
-  "countdownMessage": "Sistem dalam perbaikan",
-  "maintenanceEnd": "2026-10-28 21:35:00",
-  "maintenance": false,
-  "maintenanceMessage": "Aplikasi sedang dalam pemeliharaan."
+  "showCountdown": true,
+  "countdownMessage": "UNDER MAINTENANCE",
+  "maintenanceEnd": "2026-11-13 09:00:00",
+  "maintenance": true,
+ "maintenanceMessage": "The application is currently under maintenance for the 4.7.0 update."
 }
