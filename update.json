@@ -7,7 +7,7 @@
   "notificationMessage": "PLAY SAFE AVOID REPORT",
   "showCountdown": true,
   "countdownMessage": "UNDER MAINTENANCE",
-  "maintenanceEnd": "2026-11-13 09:00:00",
+  "maintenanceEnd": "2026-11-13 23:00:00",
   "maintenance": true,
  "maintenanceMessage": "The application is currently under maintenance for the 4.7.0 update."
 }
